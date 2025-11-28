@@ -20,5 +20,4 @@ Consolidar y practicas:
 
 ##### Adjunto el esquema de la BBDD
 
-
-
+<img width="938" height="793" alt="Esquema de la BBDD" src="https://github.com/user-attachments/assets/1e10b24a-42d5-4b3c-9210-62a5a1be91ad" />
